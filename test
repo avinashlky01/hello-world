@@ -1,4 +1,4 @@
-echo "# 3rd-repo" >> README.md
+.echo "# 3rd-repo" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
